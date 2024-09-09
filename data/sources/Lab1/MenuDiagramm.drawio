@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
+  <diagram name="Страница — 1" id="qGi9d46iGeu2VHH08u3F">
+    <mxGraphModel dx="880" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="410" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-23" value="&lt;div&gt;Включить&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-27" value="Выбрать класс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-28" value="Шаман - Совершенствование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-29" value="Режимы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="140" height="120" as="geometry">
+            <mxRectangle x="480" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-30" value="Агрессивный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ew4_Xw-xwaGuxxKVfgXB-29">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-31" value="&lt;div&gt;Пассивный&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ew4_Xw-xwaGuxxKVfgXB-29">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-40" value="" style="shape=link;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="ew4_Xw-xwaGuxxKVfgXB-29" target="ew4_Xw-xwaGuxxKVfgXB-29">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="89" as="sourcePoint" />
+            <mxPoint x="100" y="89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-32" value="Создать собственный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ew4_Xw-xwaGuxxKVfgXB-29">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-36" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-37" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="169" as="sourcePoint" />
+            <mxPoint x="599" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-39" value="Дополнительные функции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ew4_Xw-xwaGuxxKVfgXB-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="194.5" as="sourcePoint" />
+            <mxPoint x="560" y="195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="194.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-42" value="Продавать предметы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="164" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="600" y="220.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew4_Xw-xwaGuxxKVfgXB-46" value="Менять экипировку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
